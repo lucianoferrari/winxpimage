@@ -16,7 +16,7 @@ There are no credentials. I turned off the guest user and the only existing user
 
 # Windows XP Screenshot
 
-
+![alt text](https://www.lufsec.com/wp-content/uploads/2019/07/Windows-XP.png)
 
 # Notes
 
